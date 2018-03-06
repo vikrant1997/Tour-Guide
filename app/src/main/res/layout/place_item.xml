@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/show_image"
+       android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        tools:src="@drawable/tour_photos"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name:"
+            android:textSize="20sp"
+            android:paddingRight="10dp"
+            android:textColor="#ef5350"
+            />
+        <TextView
+            android:id="@+id/show_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Name of place"
+            android:textSize="20sp"
+        android:textColor="#607d8b"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Events:"
+            android:textSize="20sp"
+            android:paddingRight="10dp"
+            android:textColor="#ef5350"
+            />
+        <TextView
+            android:id="@+id/show_events"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Events in the place"
+            android:textSize="20sp"
+            android:textColor="#607d8b"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Restaurants:"
+            android:textSize="20sp"
+            android:paddingRight="10dp"
+            android:textColor="#ef5350"
+            />
+        <TextView
+            android:id="@+id/show_res"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Restaurants of places"
+            android:textSize="20sp"
+            android:textColor="#607d8b"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Historical Site:"
+            android:textSize="20sp"
+            android:paddingRight="10dp"
+            android:textColor="#ef5350"
+
+            />
+        <TextView
+            android:id="@+id/show_his"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Sites"
+            android:textSize="20sp"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hotels:"
+            android:textSize="20sp"
+            android:paddingRight="10dp"
+            android:textColor="#ef5350"
+            />
+        <TextView
+            android:id="@+id/show_hotels"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Hotels of that place"
+            android:textSize="20sp"
+            android:textColor="#607d8b"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

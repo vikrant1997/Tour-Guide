@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Tour_Guide</string>
+    <string name="Moscow">Moscow</string>
+    <string name="White_nights">White Nights</string>
+    <string name="Savva">Savva</string>
+    <string name="Matreshka">Matreshka</string>
+
+    <string name="Saint_Petersburg">Saint Petersburg</string>
+
+    <string name="Pizza_hut">Pizza Hut</string>
+
+
+    <string name="Lake_Baikal">Lake Baikal</string>
+    <string name="LaPergola">LaPergola</string>
+
+
+
+    <string name="Petergof">Petergof</string>
+    <string name="ChineseMan">Chinese Man</string>
+
+    <string name="All_Angelo">All\'Angelo</string>
+    <string name="Suzdal">Suzdal</string>
+    <string name="June_In_Flourence">June In Flourence</string>
+    <string name="Gusto_Giusto">Gusto Giusto</string>
+
+    <string name="Sam_Ranieri">Sam Ranieri</string>
+    <string name="Kazan">Kazan</string>
+    <string name="Sabantuy">Sabantuy</string>
+    <string name="Pashmir">Pashmir</string>
+    <string name="Korston">Korston</string>
+    <string name="Kazan_Kremlin">Kazan Kremlin</string>
+    <string name="Barcelona">Barcelona</string>
+    <string name="Lady_Gaga">Lady Gaga</string>
+    <string name="Axel">Axel</string>
+
+    <string name="Madrid">Madrid</string>
+    <string name="RoloTomassi">Rolo Tomassi</string>
+    <string name="Pizza_Hut">Pizza Hut</string>
+    <string name="CenaColo">CenaColo</string>
+
+    <string name="Granada">Granada</string>
+    <string name="RoseWell">RoseWell</string>
+    <string name="Melia">Melia</string>
+    <string name="Miramalfi">Miramalfi</string>
+    <string name="Valencia">Valencia</string>
+
+
+    <string name="Le_Perule">Le Perule</string>
+    <string name="Majorca">Majorca</string>
+    <string name="Jazz">Jazz D\'Our</string>
+    <string name="Gusto">Gusto Giusto</string>
+    <string name="Del_Dumo">Del Duomo</string>
+
+    <string name="Ibiza">Ibiza</string>
+    <string name="SpotLightParty">Spot Light Party</string>
+    <string name="Can_Domingo">Can Domingo</string>
+    <string name="Playsol">Playsol</string>
+    <string name="Torre_Des_Molar">Torre Des Molar</string>
+    <string name="Paris">Paris</string>
+    <string name="Fashion_Week">Fashion Week</string>
+    <string name="Le_Cinq">Le Cinq</string>
+    <string name="Bastilla_Opera">Bastilla Opera</string>
+    <string name="Dauphine">Dauphine</string>
+    <string name="Nice">Nice</string>
+    <string name="Mars_aux">Mars aux</string>
+    <string name="Las_Garcos">Las Garcos</string>
+    <string name="Albert">Albert 1 er</string>
+    <string name="Mythos">Mythos</string>
+    <string name="French_Riveria">French Riveria</string>
+    <string name="Rolex_Monte">Rolex Monte</string>
+    <string name="Cafe_Milano">Cafe Milano</string>
+    <string name="Van_Der_Walk">Van Der Walk</string>
+    <string name="Occitan">Occitan</string>
+    <string name="Chamonix">Chamonix</string>
+    <string name="Ice_hockey">Ice Hockey</string>
+    <string name="LaCaraVella">LaCaraVella</string>
+    <string name="LePerule">Le Perule</string>
+    <string name="Stras_bourg">Stras Bourg</string>
+    <string name="GustoGiusto">Gusto Giusto</string>
+    <string name="DelDuomo">Del Duomo</string>
+    <string name="Kleber">Kleber squarae</string>
+    <string name="Lyon">Lyon</string>
+    <string name="Sasha">Sasha Carassi</string>
+    <string name="ibis_Lyon">ibis Lyon</string>
+    <string name="Palais">Palais De La</string>
+    <string name="Rome">Rome</string>
+    <string name="Kerri">Kerri Chandler</string>
+    <string name="Roman_Fourm">Roman Fourm</string>
+    <string name="Quirinale">Quirinale</string>
+    <string name="Milan">Milan</string>
+    <string name="Wolf_Alice">Wolf Alice</string>
+    <string name="Amalfi">Amalfi</string>
+    <string name="Ravello">Ravello</string>
+    <string name="Venice">venice</string>
+    <string name="Chinese_Man">Chinese Man</string>
+    <string name="Venetian">Venetian</string>
+    <string name="Pisa">Pisa</string>
+    <string name="JuneInFlourence">June In Flourence</string>
+    <string name="Del_Duomo">Del Duomo</string>
+    <string name="SamRanieri">Sam Ranieri</string>
+    <string name="LakeGarda">Lake Garda</string>
+    <string name="FishFestival">Fish Festival</string>
+    <string name="MarcoEDaniela">Marco E Daniela</string>
+    <string name="Caseus">Caseus Spa</string>
+    <string name="GrotteDi">Grotte Di</string>
+</resources>
